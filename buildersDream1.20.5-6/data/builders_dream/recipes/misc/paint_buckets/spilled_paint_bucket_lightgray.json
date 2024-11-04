@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:light_gray_dye"
+    },
+	"B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Spilled Light Gray Paint Bucket','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWEyODYzMjU4ZGEwM2E0MDYyY2IwN2ZhMDIxZWEwM2RiOGJlNDI3OGM1NjJiMGEyYmY4Yjg5YjhiMDA1ZDUxNSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

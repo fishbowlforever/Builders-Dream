@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "T ",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Cracked Skull','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwMGJhODY3NzFmMjk3MDZhZTczYzYyMWEyZjlhZGRiYTNjODI3OGZjYTJkMWRhMzE3YTMwZjM0ODI4MTVlNCJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

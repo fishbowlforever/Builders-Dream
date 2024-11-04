@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:orange_dye"
+    },
+	"B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Spilled Orange Paint Bucket','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZhZTYzYTkxZmU0OTJlOTE1OTE4ODk3OTczNmI1N2JmNTg1MDk1ODVhNGQwODk5MmE5NzZmOThjODhlY2VmMSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

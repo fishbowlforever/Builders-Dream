@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "builders_dream:books/knowledge_books"
+      }
+    }
+  },
+  "rewards": {
+    "function": "builders_dream:unlock_all_recipes"
+  }
+}

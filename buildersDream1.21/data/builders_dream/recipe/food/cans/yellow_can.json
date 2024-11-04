@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "can",
+  "pattern": [
+    "T",
+    "I",
+	"T"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:iron_ingot"
+    },
+	"I": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Yellow Can','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMwY2I0MjA4MjgyYTU1NzhkNmQ4MmUxMTVhMzk0ZWNiNThlNDU3MTI1YTZmZWQwNTk1NjhkZmQ3ZGRkZTRmMCJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

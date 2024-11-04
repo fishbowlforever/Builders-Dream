@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+	{
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:netherite_helmet"
+    }
+  ],
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Decorative Netherite Helmet',color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZiZWM3OTI1MzE1MmUxNzdmMjA4OTBiMjUyZGVlYzQ0MTk5NzE3NTc2OTBjMzdiZGY4YjMwMWFlYzlmMzg5NCJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

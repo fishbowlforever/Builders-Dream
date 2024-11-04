@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "0"
+    ],
+    "key": {
+        "0": "minecraft:pumpkin_pie"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:item_name": "[{'text':'Pumpkin Pie Slice','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNlYTU5M2YyM2U0YjM5NWNjMWYzZmRjYjcwNjRiNjc2ZjI1ZjE1NTZjNWQ3ZDg0OGQzMTRhZGViNjc5NTQwNiJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

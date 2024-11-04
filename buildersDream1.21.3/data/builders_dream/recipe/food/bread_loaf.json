@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "TTT"
+    ],
+    "key": {
+        "T": "minecraft:bread"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Bread Loaf',color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdkMDZjZDdhNDY0N2Q3Y2U3YTU3YjQ2NDBmNDU5YzJiOTQxMmY1Y2QxOWQzNzUyOGI4ODYyODVmNTFhYjQ0In19fQ=="
+                    }
+                ]
+            }
+        }
+    }
+}

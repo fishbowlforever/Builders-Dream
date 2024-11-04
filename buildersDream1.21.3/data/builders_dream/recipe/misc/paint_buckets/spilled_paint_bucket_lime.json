@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "spilled_paint_bucket",
+    "pattern": [
+        "BD"
+    ],
+    "key": {
+        "D": "minecraft:lime_dye",
+        "B": "minecraft:bucket"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Spilled Lime Paint Bucket','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ3YzgxZjlkMzU2ZDIzOTAzMTA0YWFiYzE4NjkzZTI0MjEzMDU2YWE1ZTJhNmY1ODJjOTU4MDcxZWU5NTU4OCJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

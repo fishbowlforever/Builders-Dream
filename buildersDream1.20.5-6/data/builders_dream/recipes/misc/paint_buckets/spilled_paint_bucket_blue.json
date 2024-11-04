@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:blue_dye"
+    },
+	"B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Spilled Blue Paint Bucket','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk5MTQ2ODkxYTY5ZjA2YWFiOWY5ODY1NTJmNmQwNDYwMjI2NmMwMDc1OWI2ZGI1MzJhMjg3MmZjZGExZWE0In19fQ=="
+          }
+        ]
+      }
+    }
+  }
+}

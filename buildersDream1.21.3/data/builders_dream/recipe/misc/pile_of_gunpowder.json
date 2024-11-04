@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "TT",
+        "TT"
+    ],
+    "key": {
+        "T": "minecraft:gunpowder"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Pile of Gunpowder','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRkNDM2NGZlMmIxOWE2YzExOWQxN2I1Njk0NGVmZjU2NmMxNGI0ZmVhNDVlOWI0YmMzMjkyOGQ1OTdmNDY4In19fQ=="
+                    }
+                ]
+            }
+        }
+    }
+}

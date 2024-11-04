@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "spilled_paint_bucket",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:white_dye"
+    },
+	"B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Spilled White Paint Bucket','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ4NjdkOTBlZWU1ZTczY2U2MzJhZTY2NjMwZTkyMWQxZmVjOTRlZjFiMzIzZjI4ZjM5YTk4NmZiYmI4NjhiZSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

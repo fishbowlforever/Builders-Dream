@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "color_miniblock",
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+	"count": 4,
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Light Gray','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhlMjk1NzY5OWJjOThhNGI1ZDYzNGFiNzE4NjdlZWIxODZiOTM0YmRiNjVkMmM0YjlkY2MyYjYxM2NmNSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building", 
+  "group": "pots",
+
+  "pattern": ["0",
+"0" ],
+  "key": {
+    "0": {
+      "item": "minecraft:angler_pottery_sherd"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+	  "minecraft:item_name": "[{'text':'Angler Pot','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmZlZjYxZGFjNTQ1ZjRjMWM3OWFmOTM0ZGQ3YzhlMjBiNWMzOTA0OGVjMzBkMDAxMDU3YTk4ZGVhZTMzNGNmZSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

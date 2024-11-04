@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "TT",
+    "TT"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:short_grass"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Grass Ball','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhiZjMzYWVhY2Y4ZjU1OWQ4MjA3YTUzNDQ5YjI4YTc5ODZiNDFkZWQ0ODI2MzE2NDBkYmIxODkyYzY1NGNjNyJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:purple_dye"
+    },
+	"B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+	  "minecraft:item_name": "[{'text':'Spilled Purple Paint Bucket','italic':false,color:'white'}]",
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM5Y2NhY2QwY2Q0OGY4ZTRkNWI3OTc0Y2Q0OThkODQ4MzkwMWJlMGNjOTViOTc5MjM4NDcyOTk1M2U1YWFlZSJ9fX0="
+          }
+        ]
+      }
+    }
+  }
+}
