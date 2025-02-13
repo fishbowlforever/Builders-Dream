@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "color_miniblock",
+    "pattern": [
+        "TT",
+        "TT"
+    ],
+    "key": {
+        "T": "minecraft:orange_dye"
+    },
+    "result": {
+        "count": 4,
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Orange','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTMzMzBmYmVkMzc3YzI0NGY0ODdlNGJjNTY4MmQxNWFmNDBkM2NlNGMzMmVlMDNmYzI0YTdmOTUyZTdkMjlhOSJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

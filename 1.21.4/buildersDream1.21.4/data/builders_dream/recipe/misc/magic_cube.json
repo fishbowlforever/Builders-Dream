@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        "minecraft:stone_button",
+        "minecraft:red_dye",
+        "minecraft:green_dye",
+        "minecraft:yellow_dye",
+        "minecraft:blue_dye",
+        "minecraft:orange_dye",
+        "minecraft:white_dye"
+    ],
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Magic Cube','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg1OWUyZjAyOGIyOTU2ZGFlNzBhZDAxODE1NjhmYjBlY2ZkNzRkYjJiZTBmOWE1ZWYzNGQyODY3YzM3Zjc2OSJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

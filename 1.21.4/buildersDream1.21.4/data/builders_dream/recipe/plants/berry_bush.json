@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "TT",
+        "TT"
+    ],
+    "key": {
+        "T": "minecraft:sweet_berries"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Berry Bush','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRlYzNmY2Q1NTcyNjlhMWEwYjliZmE4YTAyZGFlMWEzOWZhMGVlOGZmNDBlMGNiOGE5NjQ3OWJlMDRiNjYwOSJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

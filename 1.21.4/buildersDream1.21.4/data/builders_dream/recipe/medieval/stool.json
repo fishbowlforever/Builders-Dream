@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "000",
+        "0 0"
+    ],
+    "key": {
+        "0": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:item_name": "[{'text':'Stool','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBkOGJhNjY0N2ZjMmJjZTU5ZDgyY2NmMjJjNTRjMWJmMTBjNDg3NzNkMDQ3ZDgyNDkxMGI4NTA4NGE0NjM5NSJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

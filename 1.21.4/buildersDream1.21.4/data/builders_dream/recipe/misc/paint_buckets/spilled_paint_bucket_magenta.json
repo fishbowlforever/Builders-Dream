@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "spilled_paint_bucket",
+    "pattern": [
+        "BD"
+    ],
+    "key": {
+        "D": "minecraft:magenta_dye",
+        "B": "minecraft:bucket"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:item_name": "[{'text':'Spilled Magenta Paint Bucket','italic':false,color:'white'}]",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA2ODUyMTAxZDM0YTI3ZTZlODAzNGVhZjY5NWIwY2E0MmVjZGNlNjhkMWI2N2I4OGNjYjI1Mjg1MGRhYTNjNSJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}
